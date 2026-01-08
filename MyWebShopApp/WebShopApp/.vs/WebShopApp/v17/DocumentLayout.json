@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\MyWebShopApp\\WebShopApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\WebShopApp2025\\MyWebShopApp\\WebShopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56DC1962-DE90-4040-BD9F-CA8CF2C294DE}|WebShopApp.csproj|c:\\users\\student\\desktop\\webshopapp\\mywebshopapp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56DC1962-DE90-4040-BD9F-CA8CF2C294DE}|WebShopApp.csproj|c:\\users\\student\\desktop\\webshopapp2025\\mywebshopapp\\webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56DC1962-DE90-4040-BD9F-CA8CF2C294DE}|WebShopApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DC1962-DE90-4040-BD9F-CA8CF2C294DE}|WebShopApp.csproj|C:\\Users\\Student\\Desktop\\WebShopApp2025\\MyWebShopApp\\WebShopApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DC1962-DE90-4040-BD9F-CA8CF2C294DE}|WebShopApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\WebShopApp2025\\MyWebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\WebShopApp2025\\MyWebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T09:57:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\WebShopApp\\MyWebShopApp\\WebShopApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\WebShopApp2025\\MyWebShopApp\\WebShopApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\WebShopApp\\MyWebShopApp\\WebShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\WebShopApp2025\\MyWebShopApp\\WebShopApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T10:00:05.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T10:00:05.637Z"
             }
           ]
         }
